@@ -1,5 +1,4 @@
-print("hello world")
-print("hi this is nishant sahu")
+print("hello world and this i snisha tssa")
 name=input("enter your name")
 for line in name:
     print(line)
